@@ -1,0 +1,6 @@
+caso (idade > 18) então {
+    permitido()
+} senão {
+    bloqueado()
+}
+
